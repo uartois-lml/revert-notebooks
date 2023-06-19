@@ -1,3 +1,5 @@
+<img alt="revert logo" src="img/revert-logo.png" width=200px/>
+
 # REVERT Notebooks
 
 Notebooks for unsupervised learning on ICP and cerebral flows waveforms. 
