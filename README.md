@@ -2,6 +2,8 @@
 
 Notebooks for unsupervised learning on ICP and cerebral flows waveforms. 
 
+![icp pulse extraction](img/icp_loss.svg)
+
 ## Environment variables
 
 The notebooks use `dotenv` to make jupyter aware of the environment variables used by the [revert](https://github.com/uartois-lml/revert) library. 
