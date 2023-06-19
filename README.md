@@ -22,4 +22,4 @@ REVERT_LOGS='~/revert-data/logs'
 
 Defining the `INFUSION_DATASETS` and `PCMRI_DATASETS` variables saves typing full paths when using the raw dataset interfaces (to infusion `.hdf5` files from UCAM or PCMRI `.txt` files from CHU Amiens), and will be used by default to write the outputs of the data processing scripts. Defining `REVERT_MODELS` and `REVERT_LOGS` helps keeping a tidy workplace when using tensorboard or saving model states during training and testing of `revert.models.Module` instances.
 
-See `help(revert.infusion.Dataset)` or `revert.models.Module`, ... for more details.
+See `help(revert.infusion.Dataset)` or `help(revert.models.Module)`, ... for more details.
